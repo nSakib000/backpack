@@ -1,0 +1,31 @@
+.hero-section{
+    background-color: #FFF9F4;
+}
+span{
+    color: #76C27E;
+    ;
+}
+.buy-btn{
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #363958;
+}
+h1.title{
+    font-weight: bold;
+    color: #363958;
+}
+h2.price{
+    color: #FA804C;
+}
+h5.card-title{
+    font-weight: bold;
+    color: #363958;
+}
+.card-backpack{
+ border-radius: 15px;
+}
+a.card-info.list-group-item.list-group-item-action{
+    border-radius: 15px;
+}
